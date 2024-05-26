@@ -1,1 +1,1 @@
-# Black-Box-Optimization
+# Black Box Optimization
